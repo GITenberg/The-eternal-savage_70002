@@ -1,0 +1,28 @@
+_repo: The-eternal-savage_70002
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2023-02-10'
+identifiers:
+  gutenberg: '70002'
+language: en
+pgterms:marc905: 20221110132228burroughs
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bAce Books, Inc., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The eternal savage
+url: http://www.gutenberg.org/ebooks/70002
